@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Renewable Energy Simulation - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\INDIAN\LOCALS~1\Temp\RSP5C.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Renewable Energy Simulation.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\Studies\BE\senior project\New folder\Renewable Energy Simulation\Project Code\Renewable Energy Simulation.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\INDIAN\LOCALS~1\Temp\RSP5C.tmp" 
+<h3>Output Window</h3>
+Compiling...
+Renewable Energy Simulation.cpp
+e:\studies\be\senior project\new folder\renewable energy simulation\project code\renewable energy simulation.cpp(2) : fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+Renewable Energy Simulation.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
